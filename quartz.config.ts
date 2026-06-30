@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "digitalyoshixi@github.io/zettelkasten",
+    baseUrl: "notes-git-v4-adxmhs-projects.vercel.app",
     ignorePatterns: ["private"],
     defaultDateType: "created",
     generateSocialImages: false,
